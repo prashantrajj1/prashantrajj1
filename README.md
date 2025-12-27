@@ -1,111 +1,76 @@
-<h1 align="center">Hi 👋, I am Prashant </h1>
-<table style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>A Wanna be Competetive Programmer, Full-Stack Developer and a Tech Enthusiast from India.</h3>
-      <p>
-        Passionate about building interactive applications and learning new technologies. 
-        I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
-        and contribute to innovative solutions. 
-      </p>
-      <br/>
-<div align="center">
-  <a href="https://discord.com/users/xenon-exe54" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:prashant7590@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/xenon-exe54" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://t.me/xenon-exe54" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.youtube.com/xenon-exe54" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
-  </a>
-</div>
-    </td>
-    <td style="text-align: right; width: 50%;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5Y21iNnpsN21oMWRrZTdvZGZkdmEycDExNWZ3N3RkejdoYWx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif" alt="Animated GIF" width="500" height="500"/>
-    </td>
-  </tr>
-</table>
+<!-- HERO -->
+<h1 align="center">👋 Hi, I'm Prashant Kumar</h1>
+<h3 align="center">Competitive Programmer • Full-Stack Developer • Tech Enthusiast</h3>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg"  width="80" height="80" alt="javascript logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css3 logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="python logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="html5 logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="c logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="react logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
-  <img width="11" />
-  <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
-</div>
-<br>
-<div align="center">
-<!-- <p align="center">
-  <a href="https://github.com/xenon-exe54?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=xenon-exe54&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
+<p align="center">
+  Turning ideas into scalable solutions using code & creativity.
+</p>
+
+<p align="center">
+  <a href="mailto:prashant7549@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/xenon-exe54">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-exe54&layout=compact&theme=radical&langs_count=6" width=400 />
+  <a href="https://github.com/prashantrajj1">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p> -->
+</p>
 
-  <br>
-  <img src="https://streak-stats.demolab.com?user=xenon-exe54&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <br>
-  <div align="right">
-    <img src="https://github-profile-trophy.vercel.app/?username=xenon-exe54&theme=matrix&column=9" alt="GitHub Trophy" />
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xenon-exe54&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
-###
+## 🧠 About Me
 
-###
+- 💻 Wanna-be competitive programmer  
+- 🌐 Full-stack developer (Frontend + Backend)  
+- ⚙️ Strong interest in system design & problem solving  
+- 🚀 Always learning, always building  
 
+I enjoy creating **interactive applications**, solving **algorithmic challenges**,  
+and exploring new technologies that shape the future.
 
-<!-- Certifications -->
-<!-- <div align="center" style="display:flex; gap:20px;">
-  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
-  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200">
-</div> -->
-<!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
-<img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
-<!-- Profile Views Counter -->
-<div align="center">
-   <p align="left" style:color="Green"><b>Visitor count</b></p>
-  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
-</div>
+---
+
+## 🎥 Featured Visual (Anime × Motivation)
+
+<p align="center">
+  <a href="https://pin.it/5JlpLZJoq" target="_blank">
+    <img src="https://api.allorigins.win/raw?url=https://pin.it/5JlpLZJoq" width="600" alt="Watch Visual on Pinterest"/>
+  </a>
+</p>
+
+> Click the image to view the cinematic video on Pinterest ⚡
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,react,redux,django,mongodb,mysql,sqlite,github,figma,jupyter,scala" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashantrajj1&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantrajj1&theme=matrix&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantrajj1&theme=nightowl&area=true"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@prashantrajj1?theme=rule34"/>
+</p>
+
+---
+
+### ⚡ *“Consistency beats talent when talent stops coding.”*
