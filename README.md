@@ -20,10 +20,9 @@
 <!-- ===================== FEATURED GIF ===================== -->
 ## ⚔️ Motivation × Code
 
-![Attack on Titan Motivation](FromKlickPinCFTATAKAETATAKAEin2025_AttackontitanAnimewallpaperCoolanimebackgrounds-ezgif.com-optimize.gif)
+![Attack on Titan Motivation](assets/aot-tatakae.gif)
 
 > **“If you don't fight, you can't win.”**
-
 
 ---
 
@@ -53,33 +52,21 @@ exploring **modern technologies**.
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=prashantrajj1&theme=tokyonight"
-    height="170"
-  />
-</p>
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=prashantrajj1&theme=tokyonight&cache_seconds=21600)
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=prashantrajj1&theme=matrix&column=7"
-  />
-</p>
+### 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prashantrajj1&theme=matrix&column=7&no-frame=true)
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prashantrajj1&theme=nightowl&area=true"
-  />
-</p>
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantrajj1&theme=nightowl&area=true&cache_seconds=21600)
 
 ---
 
 <!-- ===================== VISITOR ===================== -->
 ## 👀 Visitor Count
 
-<p align="center">
-  <img src="https://moe-counter.glitch.me/get/@prashantrajj1?theme=rule34"/>
-</p>
+![Visitor Count](https://moe-counter.glitch.me/get/@prashantrajj1?theme=rule34)
 
 ---
 
