@@ -38,9 +38,8 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://chaitanyalonarkar.netlify.app/](https://chaitanyalonarkar.netlify.app/)
-
-- 📫 How to reach me **chaitanyalonarkar@gmail.com**
+- 👨‍💻 All of my projects are available at 
+- 📫 How to reach me **prashant75490@gmail.com**
 
 - ⚡ Fun fact **I love solving escape rooms—great practice for debugging my code under pressure!**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
