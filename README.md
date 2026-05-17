@@ -96,7 +96,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 <div align="center">
 	
-![snake gif](https://github.com/prashantrajj1/prashantrajj1/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
