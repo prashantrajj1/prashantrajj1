@@ -18,7 +18,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at prashant-portfolio-alpha.vercel.app
+- 👨‍💻 All of my projects are available at [prashant-portfolio-alpha.vercel.app](https://prashant-portfolio-alpha.vercel.app/)
 - 📫 How to reach me **prashant75490@gmail.com**
 
 - ⚡ Fun fact **I love solving escape rooms—great practice for debugging my code under pressure!**
